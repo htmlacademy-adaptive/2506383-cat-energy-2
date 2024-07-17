@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Кирилл Яковлев](https://up.htmlacademy.ru/adaptive-individual/2/user/2506383).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/profession/frontender-individual/1/adaptive-individual/2/user/78239).
 
 ---
 
